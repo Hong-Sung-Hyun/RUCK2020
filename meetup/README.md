@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=U9bTwrgnKhA&list=PLVxO6JrgVXzrzEx1AdKRtJ8-p0ZhBu
 
 아래 구글 밋 링크를 클릭하시면 참여하실 수 있습니다.
 
-https://meet.google.com/vvf-rkzs-uod
+https://meet.google.com/pki-rnec-vzo
 
 ## 공개 미팅 일정
 
