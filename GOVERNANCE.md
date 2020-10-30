@@ -14,4 +14,4 @@
 | 길지홍(@jhgil92) |<godco92@gmail.com>| 증권사에서 데이터분석과 온라인 비즈니스 업무를 담당하고 있으며, </br> UX/마케팅/경영실적 분석 등 실무에 R을 적극적으로 활용하고자 노력하고 있습니다.|
 | 안효준(@loveactualry) |<loveactualry@gmail.com>| Business Analytics를 전공하였으며 다양한 업무에 R을 적용하기 위해 노력하는 사람|
 | 김영우(@youngwoos) | <stats7445@gmail.com> |데이터 분석 컨설팅, 교육을 하고 있습니다. 팟캐스트 데이터홀릭([bit.ly/dataholic](https://bit.ly/dataholic))을 진행하고 있습니다. |
-| 류성균 |||
+| 류성균(@rhyeu) |<sk.rhyeu@gmail.com>|통신사 데이터 분석가로 근무중이며, R을 통한 데이터 분석 및 전달에 관심이 있습니다.|
